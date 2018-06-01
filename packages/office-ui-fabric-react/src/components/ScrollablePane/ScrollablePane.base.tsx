@@ -321,6 +321,7 @@ export class ScrollablePaneBase extends BaseComponent<IScrollablePaneProps, IScr
     } else {
       // If stickyContentToAdd isn't a child element of target container, then append
       if (!stickyContainer.contains(stickyContentToAdd)) {
+        // Avoid using 'Array.from' due to ie incompatibility.
         const stickyChildrenElements: Element[] = [].slice.call(stickyContainer.children);
 
         const stickyList: Sticky[] = [];

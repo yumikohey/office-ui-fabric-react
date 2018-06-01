@@ -2,10 +2,10 @@
   "changes": [
     {
       "packageName": "office-ui-fabric-react",
-      "comment": "StickyPane: Replaced Array.From since it is not supported in IE",
-      "type": "patch"
+      "comment": "StickyPane: Replaced Array.From since it is not supported in IE (bump hotfix.2)",
+      "type": "hotfix"
     }
   ],
   "packageName": "office-ui-fabric-react",
-  "email": "joschect@microsoft.com"
+  "email": "law@microsoft.com"
 }

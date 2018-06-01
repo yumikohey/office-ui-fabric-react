@@ -5,6 +5,7 @@
     "url": "https://github.com/OfficeDev/office-ui-fabric-react.git"
   },
   "nodeSupportedVersionRange": ">=6.9.0 <10.0.0",
+  "hotfixChangeEnabled": true,
   "projects": [
     {
       "packageName": "office-ui-fabric-react",
