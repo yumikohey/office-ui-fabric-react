@@ -1,6 +1,6 @@
 - Make sure the label conveys a clear purpose of the button to the user.
 - Button labels must describe the action the button will perform and should include a verb. Use concise, specific, self-explanatory labels, usually a single word.
-- Buttons should always include a noun if there is any room for interpretation about what the verb operates on.
+- Button should always include a noun if there is any room for interpretation about what the verb operates on.
 - Consider the affect localization will have on the button and what will happen to components around it.
 - If the button’s label content is dynamic, consider how the button will resize and what will happen to components around it.
 - Use only a single line of text in the label of the button.
