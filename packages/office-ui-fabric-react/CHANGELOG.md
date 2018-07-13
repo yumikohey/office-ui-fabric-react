@@ -1,6 +1,20 @@
 # Change Log - office-ui-fabric-react
 
-This log was last generated on Thu, 12 Jul 2018 10:29:30 GMT and should not be manually modified.
+This log was last generated on Fri, 13 Jul 2018 10:23:42 GMT and should not be manually modified.
+
+## 6.34.0
+Fri, 13 Jul 2018 10:23:42 GMT
+
+### Minor changes
+
+- Button: Added menuAs to better support custom contextual menus
+- DetailsList: Complete CSS-in-JS conversion.
+- Edit to styled function call allowing customization with CalloutContent, DialogContent, and DialogFooter
+
+### Patches
+
+- Fix various typings/code bugs.
+- Deprecate unused linkIsSelected Pivot style prop.
 
 ## 6.33.1
 Thu, 12 Jul 2018 10:29:30 GMT

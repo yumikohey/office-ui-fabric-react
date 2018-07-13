@@ -1,6 +1,13 @@
 # Change Log - @uifabric/styling
 
-This log was last generated on Tue, 10 Jul 2018 21:54:07 GMT and should not be manually modified.
+This log was last generated on Fri, 13 Jul 2018 10:23:42 GMT and should not be manually modified.
+
+## 6.7.0
+Fri, 13 Jul 2018 10:23:42 GMT
+
+### Minor changes
+
+- Move certain types into `@uifabric/merge-styles` and export more types as well from that package.
 
 ## 6.6.0
 Tue, 10 Jul 2018 21:54:07 GMT

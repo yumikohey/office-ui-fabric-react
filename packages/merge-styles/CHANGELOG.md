@@ -1,6 +1,13 @@
 # Change Log - @uifabric/merge-styles
 
-This log was last generated on Tue, 10 Jul 2018 21:54:07 GMT and should not be manually modified.
+This log was last generated on Fri, 13 Jul 2018 10:23:42 GMT and should not be manually modified.
+
+## 6.3.0
+Fri, 13 Jul 2018 10:23:42 GMT
+
+### Minor changes
+
+- Add support for style functions and improve documentation/typings.
 
 ## 6.2.3
 Tue, 10 Jul 2018 21:54:07 GMT

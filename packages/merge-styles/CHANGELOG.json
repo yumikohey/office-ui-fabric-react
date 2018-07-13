@@ -2,6 +2,20 @@
   "name": "@uifabric/merge-styles",
   "entries": [
     {
+      "version": "6.3.0",
+      "tag": "@uifabric/merge-styles_v6.3.0",
+      "date": "Fri, 13 Jul 2018 10:23:42 GMT",
+      "comments": {
+        "minor": [
+          {
+            "author": "Cliff Koh <cliff.koh@microsoft.com>",
+            "commit": "7faceaea02e07c9f6656516c2f95885c5f3defd3",
+            "comment": "Add support for style functions and improve documentation/typings."
+          }
+        ]
+      }
+    },
+    {
       "version": "6.2.3",
       "tag": "@uifabric/merge-styles_v6.2.3",
       "date": "Tue, 10 Jul 2018 21:54:07 GMT",

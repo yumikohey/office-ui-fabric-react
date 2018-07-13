@@ -1,6 +1,13 @@
 # Change Log - @uifabric/example-app-base
 
-This log was last generated on Thu, 14 Jun 2018 20:52:57 GMT and should not be manually modified.
+This log was last generated on Fri, 13 Jul 2018 10:23:42 GMT and should not be manually modified.
+
+## 6.2.2
+Fri, 13 Jul 2018 10:23:42 GMT
+
+### Patches
+
+- Fix typing bugs in example-app-base
 
 ## 6.2.1
 Thu, 14 Jun 2018 20:52:57 GMT

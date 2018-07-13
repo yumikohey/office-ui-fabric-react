@@ -1,6 +1,13 @@
 # Change Log - @uifabric/charting
 
-This log was last generated on Tue, 03 Jul 2018 10:23:19 GMT and should not be manually modified.
+This log was last generated on Fri, 13 Jul 2018 10:23:42 GMT and should not be manually modified.
+
+## 0.0.5
+Fri, 13 Jul 2018 10:23:42 GMT
+
+### Patches
+
+- Update typings to not use deprecated types.
 
 ## 0.0.4
 Tue, 03 Jul 2018 10:23:19 GMT
