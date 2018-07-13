@@ -2,6 +2,28 @@
   "name": "@uifabric/charting",
   "entries": [
     {
+      "version": "0.0.5",
+      "tag": "@uifabric/charting_v0.0.5",
+      "date": "Fri, 13 Jul 2018 18:55:05 GMT",
+      "comments": {
+        "patch": [
+          {
+            "author": "Cliff Koh <cliff.koh@microsoft.com>",
+            "commit": "7faceaea02e07c9f6656516c2f95885c5f3defd3",
+            "comment": "Update typings to not use deprecated types."
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"office-ui-fabric-react\" from `>=6.33.1 <7.0.0` to `>=6.34.0 <7.0.0`"
+          },
+          {
+            "comment": "Updating dependency \"@uifabric/example-app-base\" from `>=6.2.1 <7.0.0` to `>=6.2.2 <7.0.0`"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.0.4",
       "tag": "@uifabric/charting_v0.0.4",
       "date": "Tue, 03 Jul 2018 10:23:19 GMT",

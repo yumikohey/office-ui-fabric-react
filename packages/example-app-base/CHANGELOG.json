@@ -2,6 +2,25 @@
   "name": "@uifabric/example-app-base",
   "entries": [
     {
+      "version": "6.2.2",
+      "tag": "@uifabric/example-app-base_v6.2.2",
+      "date": "Fri, 13 Jul 2018 18:55:05 GMT",
+      "comments": {
+        "patch": [
+          {
+            "author": "Cliff Koh <cliff.koh@microsoft.com>",
+            "commit": "7faceaea02e07c9f6656516c2f95885c5f3defd3",
+            "comment": "Fix typing bugs in example-app-base"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"office-ui-fabric-react\" from `>=6.33.1 <7.0.0` to `>=6.34.0 <7.0.0`"
+          }
+        ]
+      }
+    },
+    {
       "version": "6.2.1",
       "tag": "@uifabric/example-app-base_v6.2.1",
       "date": "Thu, 14 Jun 2018 20:52:57 GMT",

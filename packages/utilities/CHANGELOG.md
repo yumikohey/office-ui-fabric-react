@@ -1,6 +1,13 @@
 # Change Log - @uifabric/utilities
 
-This log was last generated on Wed, 20 Jun 2018 10:25:55 GMT and should not be manually modified.
+This log was last generated on Fri, 13 Jul 2018 18:55:05 GMT and should not be manually modified.
+
+## 6.8.0
+Fri, 13 Jul 2018 18:55:05 GMT
+
+### Minor changes
+
+- Tighten typings of APIs around merge-styles to be more correct
 
 ## 6.7.1
 Wed, 20 Jun 2018 10:25:55 GMT
