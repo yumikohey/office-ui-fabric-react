@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@uifabric/webpack-utils",
+      "comment": "renamed follow/unfollow signal icons style names",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@uifabric/webpack-utils",
+  "email": "huaxi@microsoft.com"
+}
